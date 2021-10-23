@@ -51,7 +51,7 @@
 <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.youtube.com/milkcandey09"><img src="https://img.shields.io/badge/-YouTube:Milk candey-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.facebook.com/milkcandey09"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
