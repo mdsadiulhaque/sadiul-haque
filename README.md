@@ -50,8 +50,8 @@
 <a href="https://www.instagram.com/md_sadiul_haque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.youtube.com/milkcandey09"><img src="https://img.shields.io/badge/-YouTube:Milk candey-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.facebook.com/milkcandey09"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=yellow"/></a>
-  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/milkcandey09"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
