@@ -26,7 +26,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![YouTube](https://img.shields.io/badge/-YouTube%20Colab-05122A?style=flat&logo=youtube-colab&logoColor=F9AB00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
