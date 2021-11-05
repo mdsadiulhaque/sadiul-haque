@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/im-1.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center"> <img src="https://github.githubassets.com/images/modules/site/home/globe.jpg">, Hi I am Md Sadiul Haque </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hi I am Md Sadiul Haque </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software enginnering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
 
