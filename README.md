@@ -1,5 +1,5 @@
 <p align="center"><img src="assets/im-1.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="assets/Cover.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hi I am Md Sadiul Haque </h1>
 
