@@ -1,16 +1,7 @@
 <p align="center"><img src="assets/im-1.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://github.githubassets.com/images/modules/site/home/
-globe-700.jpg 700w,
-                        
-https://github.githubassets.com/images/modules/site/home
-/globe.jpg 1400w" sizes="(max-width: 700px) 70vw, 700px" src=
-"https://github.githubassets.com/images/modules/site/home/globe.jpg"
- alt="Planet earth with visualization of GitHub activity crossing the
- globe" class="width-full height-auto js-globe-fallback-image"
- loading="lazy" decoding="async" width="1238"
- height="1404" hidden="">, I am Md Sadiul Haque </h1>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/modules/site/home/globe.jpg">, I am Md Sadiul Haque </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software enginnering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
 
