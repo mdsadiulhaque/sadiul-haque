@@ -6,10 +6,10 @@
 <p align="center" width="150px"> I have just kickstarted my career as a software enginnering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/sadiul-haque/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiul-haque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sadiul-haque&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=sadiul-haque&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mdsadiulhaque&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,12 +32,12 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-sadiul-haque-34b148168/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/md_sadiul_haque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-FF00DC?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.youtube.com/milkcandey09"><img src="https://img.shields.io/badge/-YouTube:Milk candey-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.facebook.com/milkcandey09"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://easysobkisu.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-F18F22?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   
@@ -45,6 +45,6 @@
 
 
 ---
-Credit: [Md Sadiul Haque](https://github.com/sadiul-haque)
+Credit: [Md Sadiul Haque](https://github.com/mdsadiulhaque)
 
 Last Updated On: 10/20/2021
